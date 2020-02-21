@@ -2,7 +2,7 @@
 
 Frontend Challenge - Fylo Landing Page
 
-Solution for Fylo Landing Page challenge.
+Solution for Fylo Landing Page challenge
 
 # Frontend Mentor - Fylo Landing Page
 
